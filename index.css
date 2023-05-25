@@ -1,0 +1,45 @@
+body{
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2022/03/01/mountain-wallpaper.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+    input{
+        box-sizing: border-box;
+        border: 1px solid #8458B3;
+        width: 100%;
+        padding:10px;
+    }
+    .save{
+      background-color:  #8458B3;
+      color: white;
+      padding:10px 20px;
+      font-weight: bold;
+      border: none;
+      margin-top: 4px;
+    }
+    #deletebtn{
+      background-color:  white;
+      color: #8458B3;
+      padding:10px 20px;
+      font-weight: bold;
+      border: none;
+      margin-top: 4px;
+      border: 1px solid #8458B3;
+    }
+    button:hover{
+        cursor: pointer;
+    }
+    ul{
+        margin-top: 20px;
+        padding-left: 0;
+       list-style: none;
+    }
+    li{
+        margin-top: 5px;
+    }
+    a{
+        color: #8458B3;
+    }
